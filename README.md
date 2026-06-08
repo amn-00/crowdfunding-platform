@@ -39,7 +39,6 @@ Traditional crowdfunding platforms rely on centralized systems, which can lead t
 - Vercel
 
 ---
----
 
 ## ⚙️ Installation
 
